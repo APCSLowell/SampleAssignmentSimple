@@ -22,16 +22,16 @@ This Sample Assignment will go through the workflow of Processing and GitHub tha
 
 7. To run the program in Processing, press the play button
 
-8. To put a modified program back on to GitHub Choose *Edit | Select All* and then *Edit | Copy* to copy the code. On the GitHub website, choose the .pde file and click the pencil to edit. Paste your code into GitHub
+8. To put a modified program back on to GitHub Choose *Edit | Select All* and then *Edit | Copy* to copy the code. On the GitHub website, choose the .pde file and click the pencil to edit. Paste your code into GitHub  
 ![Image 6](/images/SampleAssignmentSimple6.png) 
 
-9. To save your changes, scroll down and click on *Commit Changes*
+9. To save your changes, scroll down and click on *Commit Changes*  
 ![Image 7](/images/SampleAssignmentSimple7.PNG)
 
-9. Now, click on index.html and then click on the pencil. Change the Title, Header and Footer of your webpate.
+9. Now, click on index.html and then click on the pencil. Change the Title, Header and Footer of your webpate.  
 ![Image 8](/images/SampleAssignmentSimple8.png)
 
-10. To view your program on the web, click on *Settings*. Scroll down, and you'll find the link to your website.
+10. To view your program on the web, click on *Settings*. Scroll down, and you'll find the link to your website.  
 ![Image 9](/images/SampleAssignmentSimple9.PNG)
 
 18. Submit the URL of your finished assignment to the dropbox in school loop
