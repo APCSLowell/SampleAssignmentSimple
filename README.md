@@ -28,7 +28,7 @@ This Sample Assignment will go through the workflow of Processing and GitHub tha
 9. To save your changes, scroll down and click on *Commit Changes*  
 ![Image 7](/images/SampleAssignmentSimple7.PNG)
 
-9. Now, click on index.html and then click on the pencil. Change the Title, Header and Footer of your webpate.  
+9. Now, click on index.html and then click on the pencil. Change the Title, Header and Footer of your webpage.  
 ![Image 8](/images/SampleAssignmentSimple8.png)
 
 10. To view your program on the web, click on *Settings*. Scroll down, and you'll find the link to your website.  
