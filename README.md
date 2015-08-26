@@ -8,7 +8,7 @@ This Sample Assignment will go through the workflow of Processing and GitHub tha
 3. Fork [this repository](https://GitHub.com/APCSLowell/SampleAssignmentSimple). Forking is making a copy of the of the *repo* (that's short for repository). It's like copying a google doc. Click on the *Fork* button at the top right corner.  
 ![Image 1](/images/SampleAssignmentSimple1.PNG)
 
-4. Click on SampleAssignmentSimple.pde file  
+4. Click on the SampleAssignmentSimple.pde file  
 ![Image 2](/images/SampleAssignmentSimple2.PNG)
 
 5. Click and drag to select the code on lines 1 through 21. Then press *Ctr + c* to copy the code.  
