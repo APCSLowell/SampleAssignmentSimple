@@ -1,4 +1,4 @@
-Sample Assignment - (Simple Workflow)
+Sample Assignment - (Basic Workflow)
 =================
 
 This Sample Assignment will go through the workflow of Processing and GitHub that you will use for your subsequent assignments. 
