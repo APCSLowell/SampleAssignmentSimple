@@ -31,7 +31,6 @@ This Sample Assignment will go through the workflow of Processing and GitHub tha
 9. Now, click on index.html and then click on the pencil. Change the Title, Header and Footer of your webpage.  Scroll down and click on "Commit Changes"  
 ![Image 8](/images/SampleAssignmentSimple8.png)
 
-10. To view your program on the web, click on *Settings*. Scroll down, and you'll find the link to your website.  
-![Image 9](/images/SampleAssignmentSimple9.PNG)
-
+10. To enable a web page for your program, click on *Settings*. Scroll down, and choose *Master*. Click save and you should see a message with the URL of your webpage   
+![Image 9](/images/GitHubPages3.PNG)
 18. Submit the URL of your finished assignment to the dropbox in school loop
