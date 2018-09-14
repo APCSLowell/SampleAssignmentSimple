@@ -36,4 +36,4 @@ This Sample Assignment will go through the workflow of Processing and GitHub tha
 
 11. Scroll down to the area marked *GitHub Pages*, and choose *Master branch*. Click save and you should see a message with the URL of your webpage   
 ![Image 9](/images/GitHubPages3.PNG)
-18. Submit the URL of your finished assignment to the dropbox in school loop
+18. Submit the URL of your finished assignment to google classroom
